@@ -3,7 +3,7 @@
 
 This project is written for the term project of BAU/CMP3010. 
 
-See on Tinkercad](https://www.tinkercad.com/things/hWKjfHUz3XQ)
+[See on Tinkercad](https://www.tinkercad.com/things/hWKjfHUz3XQ)
 
 ## Schematics
 ![enter image description here](https://i.ibb.co/hd5x10Y/Fantastic-Bombul.jpg)
